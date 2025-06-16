@@ -1,1 +1,3 @@
 # Mini_Proyecto_Responsive
+En esta clase pude aprender mucho más sobre las buenas practicas y la correcta estructuracion de un proyecto o página web. Hoy pude aprender sobre el diseño responsive para hacer que el contenido de mi página se ajuste de acuerdo al tamaño del dispositivo ya sea un celular,computador o laptop.
+Otro tema del cual prendi mas fue sobre las animaciones y el tema del reset en un css para que mi página cuando la ponga a trabajar en otros navegadores como opera o firefox, esta trabaje y muestre los estilos y la información como deberia. En cuanto a las animaciones aprendi a como incorprar animaciones y estilos más dináicos a la pagina para aumentar el atractivo y mejorar la experiencia del usuario
